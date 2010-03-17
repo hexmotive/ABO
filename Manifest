@@ -1,5 +1,4 @@
-ABO.gemspec
-CHANGELOG
+CHANGES.rdoc
 Manifest
 README.rdoc
 Rakefile

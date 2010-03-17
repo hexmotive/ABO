@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('ABO', '0.0.1') do |p|
+Echoe.new('ABO', '0.0.2') do |p|
   p.description    = "RUBY ABO banking format library"
   p.url            = "http://github.com/hexmotive/ABO"
   p.author         = "Josef Šimánek"
