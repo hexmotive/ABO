@@ -1,0 +1,11 @@
+== Preface
+
+Format ABO is commonly used in the Czech Republic and Slovak for financial reporting. 
+
+== Specification
+
+{Format specification (Czech)}[http://www.csas.cz/banka/content/inet/internet/cs/ABO_format.pdf]
+
+== Installation
+
+  $ sudo gem install ABO
